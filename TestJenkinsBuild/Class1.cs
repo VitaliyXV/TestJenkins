@@ -4,9 +4,13 @@ namespace TestJenkinsBuild
 {
     public class Class1
     {
-        public static void Main(string[] args)
+        //public static void Main(string[] args)
+        //{
+        //    Console.WriteLine("Hello World!");
+        //}
+        public void Test()
         {
-            Console.WriteLine("Hello World!");
+            int i = 10;
         }
     }
 }
